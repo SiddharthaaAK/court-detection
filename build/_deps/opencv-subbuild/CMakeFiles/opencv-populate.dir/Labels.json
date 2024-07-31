@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/CMakeFiles/opencv-populate"
+		},
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/CMakeFiles/opencv-populate.rule"
+		},
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/CMakeFiles/opencv-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/opencv-populate-prefix/src/opencv-populate-stamp/opencv-populate-install.rule"
+		},
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/opencv-populate-prefix/src/opencv-populate-stamp/opencv-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/opencv-populate-prefix/src/opencv-populate-stamp/opencv-populate-download.rule"
+		},
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/opencv-populate-prefix/src/opencv-populate-stamp/opencv-populate-update.rule"
+		},
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/opencv-populate-prefix/src/opencv-populate-stamp/opencv-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/opencv-populate-prefix/src/opencv-populate-stamp/opencv-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/opencv-populate-prefix/src/opencv-populate-stamp/opencv-populate-build.rule"
+		},
+		{
+			"file" : "/home/aitest/sesha/mono-track-sesha/monotrack/court-detection/build/_deps/opencv-subbuild/opencv-populate-prefix/src/opencv-populate-stamp/opencv-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"opencv-populate"
+		],
+		"name" : "opencv-populate"
+	}
+}
